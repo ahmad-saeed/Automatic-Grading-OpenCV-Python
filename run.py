@@ -1,3 +1,4 @@
+#! py -2
 import numpy as np
 import cv2
 from grade_paper import ProcessPage
